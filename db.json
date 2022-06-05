@@ -1,0 +1,40 @@
+{
+  "productList": [
+    {
+      "productName": "Nootbook",
+      "categorie": "Elekronik",
+      "date": "2022-06-10T22:00:00.000Z",
+      "produktZustand": "gebraucht",
+      "price": 200,
+      "productDescription": "i want to sale my old nootbook. it works very good!!",
+      "id": 3
+    },
+    {
+      "productName": "Apple",
+      "categorie": "Obst",
+      "date": "2022-06-03T22:00:00.000Z",
+      "produktZustand": "ganz neu",
+      "price": 12,
+      "productDescription": "i provide a fresh apple!!",
+      "id": 4
+    },
+    {
+      "productName": "dfdg",
+      "categorie": "Kleidungen",
+      "date": "2022-06-23T22:00:00.000Z",
+      "produktZustand": "gebraucht",
+      "price": 234,
+      "productDescription": "sdfg",
+      "id": 5
+    },
+    {
+      "productName": "kdj",
+      "categorie": "Elekronik",
+      "date": "2022-06-15T22:00:00.000Z",
+      "produktZustand": "gebraucht",
+      "price": 212,
+      "productDescription": "",
+      "id": 6
+    }
+  ]
+}
