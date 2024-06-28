@@ -1,12 +1,12 @@
 <div class="productContainer">
     <div>
-      <mat-form-field appearance="standard">
-        <mat-label>Filter</mat-label>
+      <mat-form-field appearance="fill">
+        <mat-label>Filter test</mat-label>
         <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Mia" #input>
       </mat-form-field>
       
       <div class="mat-elevation-z8">
-        <table mat-table [dataSource]="apiService.dataSource" matSort>
+        <table mat-table [dataSource]="dataSource" matSort>
 
           <ng-container matColumnDef="productName">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> Produktname </th>

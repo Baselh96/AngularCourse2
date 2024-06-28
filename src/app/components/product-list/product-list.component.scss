@@ -2,16 +2,13 @@ table {
     width: 100%;
 }
   
-.mat-form-field {
+.mat-mdc-form-field {
     font-size: 14px;
-    width: 100%;
+    min-width: 30%;
+    margin-top: 2%;
 }
 
 .productContainer {
     max-width: 92%;
     margin: 0 auto;
 }
- /* 
-td, th {
-    width: 15%;
-}*/
